@@ -10,7 +10,7 @@ atualmente, sou estudante de desenvolvimento web fullstack na 🔗 www.betrybe.c
 - DOM
 - Softskills
 
-Pretendo dar um foco maior no front-end pois após conhecer o React ⚛️ , puder enchergar o grande potencial das SPA's
+Pretendo dar um foco maior no front-end pois após conhecer o React ⚛️ , puder enxergar o grande potencial das SPA's
 
 ### contato
 🐦 https://twitter.com/Jorge_Willi4m  
