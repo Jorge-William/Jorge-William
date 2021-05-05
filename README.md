@@ -1,16 +1,26 @@
 ## Olá, eu sou Jorge William 👋,
-carioca da gema 🍳, o pai da pequena Mariah 🍼 , torcedor do Flamengo e do Arsenal ⚽ , extremamente curioso e que ama tecnologia, adoro ler 📖 nos tempos livres (meu ultimo título foi a revolução dos bichos de George Orwell) e
-atualmente, sou estudante de desenvolvimento web fullstack na 🔗 www.betrybe.com, onde tenho contato direto com tecnologias como
+carioca da gema 🍳, o pai da pequena Mariah 🍼 , torcedor do Flamengo e do Arsenal ⚽ , extremamente curioso e que ama tecnologia, adoro ler 📖 nos tempos livres (meu último título foi a revolução dos bichos de George Orwell) e
+atualmente, sou estudante de desenvolvimento web fullstack na 🔗 www.betrybe.com, onde tenho contato direto com tecnologias como:
 - Bash
+- Git
 - Html5 -> semântica, acessibilidade
-- Css3 -> Flexbox, 
-- Javascript - Es6 
-- Consumo de API
-- React -> hooks, ciclo de vida de um componente, componente com classe e funcional
+- Css3 -> Flexbox
 - DOM
+- Javascript - Es6 - Assincronicidade
+- Consumo de API
+- React, Redux, componentes(classe e funcional) ciclo de vida de um componente
+- Node
 - Softskills
 
-Pretendo dar um foco maior no front-end pois após conhecer o React ⚛️ , puder enxergar o grande potencial das SPA's
+### Learning
+- Redux
+
+### Projetos Atuais
+- https://github.com/tryber/sd-09-project-recipes-app
+- https://github.com/tryber/sd-09-project-starwars-planets-search
+- https://github.com/tryber/sd-09-project-trybewallet
+
+
 
 ### contato
 🐦 https://twitter.com/Jorge_Willi4m  
