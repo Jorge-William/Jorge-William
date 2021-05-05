@@ -12,7 +12,7 @@ atualmente, sou estudante de desenvolvimento web fullstack na 🔗 www.betrybe.c
 - Node
 - Softskills
 
-### Learning
+### Estudando no momento...
 - Redux
 
 ### Projetos Atuais
@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-william)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-william)
  
