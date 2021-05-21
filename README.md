@@ -2,15 +2,11 @@
 carioca da gema 🍳, o pai da pequena Mariah 🍼 , torcedor do Flamengo e do Arsenal ⚽ , extremamente curioso e que ama tecnologia, adoro ler 📖 nos tempos livres (meu último título foi a revolução dos bichos de George Orwell) e
 atualmente, sou estudante de desenvolvimento web fullstack na 🔗 www.betrybe.com, onde tenho contato direto com tecnologias como:
 - Bash
-- Git
-- Html5 -> semântica, acessibilidade
-- Css3 -> Flexbox
 - DOM
 - Javascript - Es6 - Assincronicidade
 - Consumo de API
 - React, Redux, componentes(classe e funcional) ciclo de vida de um componente
 - Node
-- Softskills
 
 ### Estudando no momento...
 - Redux
