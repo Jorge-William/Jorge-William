@@ -6,6 +6,7 @@ atualmente, sou estudante de desenvolvimento web fullstack na 🔗 www.betrybe.c
 - Javascript - Es6 - Assincronicidade
 - Consumo de API
 - React, Redux, componentes(classe e funcional) ciclo de vida de um componente
+- React Testing Library
 - Node
 
 ### Estudando no momento...
