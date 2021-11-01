@@ -7,6 +7,7 @@ Atualmente, estudo na 🔗 www.betrybe.com para me tornar um **desenvolvedor web
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React logo" width="80"/>
 <img src="https://camo.githubusercontent.com/ae61b0ddad90a6f9be866adec7dbca2dcca1819e3204f07916d6f34ae058b4c9/68747470733a2f2f7777772e6c6561726e73746f7279626f6f6b2e636f6d2f696e74726f2d746f2d73746f7279626f6f6b2f6c6f676f2d6a6573742e706e67" alt="Jest logo" width="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git logo" width="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node logo" width="80"/>
 
 
 
