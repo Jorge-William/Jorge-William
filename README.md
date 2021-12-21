@@ -13,7 +13,7 @@ Atualmente, estudo de forma autonoma para me tornar um **desenvolvedor web fulls
 
 
 # Estudando no momento  :rocket:
-<img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" alt="Handlebars logo" width="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux logo" width="80"/><br/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" alt="Handlebars logo" width="80"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Redux logo" width="80"/><br/>
 
 
 # Contato
