@@ -1,5 +1,5 @@
 Olá, eu sou Jorge William 👋 , carioca da gema 🍳,  pai da pequena Mariah 🍼 , torcedor do Flamengo e do Arsenal ⚽ , extremamente curioso e que ama tecnologia, adora ler 📖 nos tempos livres (meu último título foi a revolução dos bichos de George Orwell).  
-Atualmente, estudo de forma autonoma para me tornar um **desenvolvedor web fullstack Jr.** , tenho tido contato direto com as tecnologias abaixo:  
+Atualmente, estudo de forma autonoma para me tornar um **desenvolvedor web fullstack Jr.**.
 # Tecnologias estudadas até aqui 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash logo" width="80"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css logo" width="80"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html logo" width="80"/>
