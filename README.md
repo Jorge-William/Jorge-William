@@ -1,4 +1,4 @@
-Olá, eu sou Jorge William 👋 , carioca da gema 🍳,  pai da pequena Mariah 🍼 , torcedor do Flamengo e do Arsenal ⚽ , extremamente curioso e que ama tecnologia, adora ler 📖 nos tempos livres (meu último título foi a revolução dos bichos de George Orwell).  
+Olá, eu sou Jorge William 👋 , carioca da gema 🍳,  pai da pequena Mariah 🍼 , torcedor do Flamengo e do Arsenal ⚽ , extremamente curioso e que ama tecnologia, adora ler 📖 nos tempos livres. 
 Atualmente, estudo de forma autonoma para me tornar um **desenvolvedor web fullstack Jr.**.
 # Tecnologias estudadas até aqui 
 
