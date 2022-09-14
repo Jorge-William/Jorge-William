@@ -1,6 +1,33 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=387DF7FF&center=true&vCenter=true&width=800&height=120&lines=Ol%C3%A1,+eu+me+chamo+Jorge+William+;Full-stack+Web+Developer+Jr+🐣;Estudante+de++Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+🔬;Sempre+aprendendo+algo+novo+🤓;)](https://git.io/typing-svg)
+<h3 align="center">
+  Bem vindo ao perfil de Jorge William!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=387DF7FF&center=true&vCenter=true&width=800&height=120&lines=Full-stack+Web+Developer+Jr+🐣;Estudante+de++Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+🔬;Sempre+aprendendo+algo+novo+🤓;"></a>
+</p>
+
 
 Sou nascido e criado na capital do Rio de Janeiro, pai da pequena Mariah e tenho como principal objetivo, mudar o mundo atravéz da tecnologia. Para isso, venho estudando para obter novas habilidades e __aperfeiçoar__ as já existentes. Atualmente estou cursando o segundo período do curso de __Ciência da Compuatação__ no Centro universitário IBMR e efetuando serviços de desenvolveimento como __freelancer__.
+
+ <!--  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;-->
+ <!--   <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+<!--   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+<!--   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+
+<p align="center">  
+ <a href="https://twitter.com/Jorge_Willi4m"><img width="32px" alt="Twitter" title="Twitter"  src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667"/></a>
+ <a href="https://www.instagram.com/j0rgewilliam/"><img width=32px" alt="instagram icon" title="Instagram"    src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"/></a>
+  <a href="https://www.linkedin.com/in/jorge-william-furtado/"><img width="32px" alt="Rede social corporativa" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"/></a>
+ <a href="https://www.goodreads.com/user/show/117912256-jorge-furtado" title="Goodreads Rede social de leitores"><img width="32px" alt="Goodreads" src="https://camo.githubusercontent.com/5590af9ceea85659676b7434ca55cd3932b2280a884938cf89762d3f81af27b3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f6472656164732e737667"/></a>
+  <a href="https://wa.me/5521964257228?text=Olá,%20assim%20que%20puder%20retornarei%20o%20contato."><img width="32px" alt="Youtube" title="Whatsapp" src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jorge-william.visitor-badge)
 
@@ -36,5 +63,12 @@ Estudando para as certificações:  | 🛒 Lista de desejos
 
 
 ### 💬 Contato
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+  
+
+<p align="center">
+  <h5>
+   E-mail:
+   jorge_william_cardoso@yahoo.com.br
+  </h5>
+</p>
 
