@@ -20,12 +20,7 @@ Sou nascido e criado na capital do Rio de Janeiro, pai da pequena Mariah. Tenho 
 <!--   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 
 <p align="center">  
- <a href="https://twitter.com/Jorge_Willi4m"><img width="32px" alt="Twitter" title="Twitter"  src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667"/></a>
- <a href="https://www.instagram.com/j0rgewilliam/"><img width=32px" alt="instagram icon" title="Instagram"    src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"/></a>
-  <a href="https://www.linkedin.com/in/jorge-william-furtado/"><img width="32px" alt="Rede social corporativa" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"/></a>
 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jorge-william.visitor-badge)
 
 <br />
 <br />
