@@ -23,10 +23,6 @@ Sou nascido e criado na capital do Rio de Janeiro, pai da pequena Mariah. Tenho 
  <a href="https://twitter.com/Jorge_Willi4m"><img width="32px" alt="Twitter" title="Twitter"  src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667"/></a>
  <a href="https://www.instagram.com/j0rgewilliam/"><img width=32px" alt="instagram icon" title="Instagram"    src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"/></a>
   <a href="https://www.linkedin.com/in/jorge-william-furtado/"><img width="32px" alt="Rede social corporativa" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"/></a>
- <a href="https://www.goodreads.com/user/show/117912256-jorge-furtado" title="Goodreads Rede social de leitores"><img width="32px" alt="Goodreads" src="https://camo.githubusercontent.com/5590af9ceea85659676b7434ca55cd3932b2280a884938cf89762d3f81af27b3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f6472656164732e737667"/></a>
-  <a href="https://wa.me/5521964257228?text=Olá,%20assim%20que%20puder%20retornarei%20o%20contato."><img width="32px" alt="Youtube" title="Whatsapp" src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jorge-william.visitor-badge)
